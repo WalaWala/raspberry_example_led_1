@@ -1,0 +1,12 @@
+{
+  "name": "walawala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "rpi-gpio": "^0.7.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "CC-BY-4.0"
+}
